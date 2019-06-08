@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab>
+        id = "@+id/vista1"
+        title="Vista 1"
+        barColorWhenSelected = "@color/colorPrimary"
+        <!--icon="@drawable/ic_Vista1/ic_Vista1"-->
+    </tab>
+    <tab>
+        id = "@+id/vista2"
+        title="Vista 2"
+        barColorWhenSelected = "@color/colorPrimary"
+        <!--icon="@drawable/ic_Vista2/ic_Vista2"-->
+    </tab>
+</tabs>
